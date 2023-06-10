@@ -1,0 +1,104 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+header {
+    height: 19vh;
+    padding: 8vh;
+    background: #1e1e1e;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    display: inline-block;
+    margin-right: 6vw;
+}
+
+
+li a {
+    font-family: 'Lily Script One', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 3vh;
+    line-height: 4vh;
+    color: #ffffff;
+}
+
+
+li a:hover {
+    color: #021cdd;
+    opacity: .7;
+    font-size: 3.5vh;
+    transition: 1s;
+}
+
+.banner img {
+    width: 100%;
+    height: 70vh;
+}
+
+.films {
+    padding: 7vh 0 16vh 13vw;
+}
+
+.films figure {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+.films figure img {
+    width: 353px;
+    height: 513px;
+    margin-bottom: 12vh;
+    filter: opacity(.9);
+}
+
+.films figure img:hover {
+   transform: scale(1.1);
+    filter: opacity(1);
+    cursor: pointer;
+}
+
+footer {
+    padding: 40px;
+    height: 22vh;
+    background: #1e1e1e;
+}
+
+footer p {
+    text-align: center;
+    display: inline-block;
+    font-family: "Actor";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 50px;
+}
+
+footer span {
+    position: relative;
+    top: 27px;
+}
+
+footer span figure {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+footer figure img {
+    width: 7vh;
+    height: 3.5vw;
+}
+
+footer figure img:hover {
+    opacity: .5;
+    transition: .5s;
+}
