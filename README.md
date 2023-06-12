@@ -19,6 +19,7 @@ Este projeto foi proposto pelo <a href="https://github.com/silvajpedro"> Instrut
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://www.w3schools.com/css/)
 - [Netlify](https://www.netlify.com)
+- [Figma](https://www.figma.com)
 - [Visual Studio Code](https://code.visualstudio.com)
 
 ## :closed_book: Como usar?
