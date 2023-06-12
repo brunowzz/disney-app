@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     text-decoration: none;
+    cursor: url(./img/cursor.png), default;
 }
 
 header {
@@ -60,9 +61,8 @@ li a:hover {
 }
 
 .films figure img:hover {
-   transform: scale(1.1);
+    transform: scale(1.1);
     filter: opacity(1);
-    cursor: pointer;
 }
 
 footer {
